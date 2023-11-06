@@ -1,4 +1,4 @@
-# Sistema Bancário - Desafio Módulo 2 - BackEnd Cubos Academy
+# Sistema Bancário - Desafio Módulo 2 - Cubos Academy
 
 ## Descrição do Projeto
 
